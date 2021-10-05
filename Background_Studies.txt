@@ -1,0 +1,44 @@
+Objective : 
+	Build a software that surves people who are trying to have an amazing experience of remote 
+test taking and test giving.
+
+
+Purpose :
+	Solve the remote test taking issues
+	Gives flexibility to test takers
+	Makes it easy to participate in multiple test of a course.
+	Increase integrity by reducing possibility of cheating
+
+
+Mission :
+	Our mission is to provide free and well organized test taking and test giving experience
+
+
+Vision :
+	Our vision is be a global icon by winning the purpose and, serving millions of students & educators.
+
+
+Features :
+	Minimalist User Interface
+	Test creation with ease
+	Assign Test to a certein "GROUP" of students
+	Auto evaluation
+	Reusable Questions
+	Maximum Randomization
+	Cheating Detection
+
+
+Benefits :
+	Friendly UI
+	No software to install
+	Save once, use in many other devices
+	Instant quiz result
+	Reusability of questions
+	Free and fast
+	Maximum test integrity
+
+
+Budget & Time :
+	Expected launching time of Minimum Viable Product - 2 Months (from project initiation)
+	Expected time for first stable release - 3 Months (from project initiation)
+	Estimated budget - $12,000 (USD)
