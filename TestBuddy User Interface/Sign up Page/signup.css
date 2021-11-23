@@ -27,16 +27,16 @@ body{
     display:block;
 }
 .container .wrap .left{
-    background-image: url("Log.jpg");
+    background-image: url("signup.jpg");
     width: 50%;
-    height: 100%;
+    height: 555px;
     background-position: center;
     background-size: cover;
     color: var(--primaray);
     float: left;
 }
 .container .wrap .left .text{
-    padding-top: 20%;
+    padding-top: 31%;
     padding-left: 60px;
 }
 .container .wrap .left .text h1{
@@ -78,7 +78,8 @@ body{
 }
 .container .wrap .right .logo .log .login{
     border: none;
-    padding: 10px 88px;
+    padding: 10px 83px;
+    margin-top: 12px;
     background: var(--tertiary);
     color: var(--primaray);
 }
@@ -94,7 +95,7 @@ body{
 .container .wrap .right .logo .log .logingoogle{
     border: none;
     background: var(--secondary);
-    padding: 10px 46px 10px 10px;
+    padding: 10px 31px 10px 10px;
     color: var(--primaray);
     font-size: 15px;
 }
@@ -103,7 +104,7 @@ body{
     font-size: 16px;
 }
 .container .wrap .right .logo .signup{
-    margin-top: 35px;
+    margin-top: 30px;
     font-size: 14px;
     color: #3b3737;
 }
